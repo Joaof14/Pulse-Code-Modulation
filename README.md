@@ -1,4 +1,4 @@
-# README: Digital Audio Transmission Simulation in Jupyter Notebook using Pulse Code Modulation and Line Coding
+# README: Digital Audio Transmission Simulation in Jupyter Notebook using Pulse Code Modulation and Line Coding 
 
 This project simulates a complete digital audio transmission system using Python in a Jupyter Notebook environment.
 
@@ -80,7 +80,9 @@ SNR_dB = np.arange(SNR_MIN, SNR_MAX + SNR_STEP, SNR_STEP) # dB
 - **Manchester**: Intermediate, with synchronization advantage
 
 
-# README: Simulação de Transmissão Digital de Áudio em Jupyter Notebook a partir da Pulse Code Modulation e Codificação de Linha
+
+
+# README: Simulação de Transmissão Digital de Áudio em Jupyter Notebook a partir da Pulse Code Modulation e Codificação de Linha (lang: pt-Br)
 
 Este projeto simula um sistema completo de transmissão digital de áudio usando Python em um ambiente Jupyter Notebook.
 
